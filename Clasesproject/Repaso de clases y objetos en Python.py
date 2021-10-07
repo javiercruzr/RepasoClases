@@ -4,7 +4,9 @@ Created on Mon Sep 27 21:57:38 2021
 
 @author: javie
 """
-
+"""
+Esto es un comentario para ver qué hacer
+"""
 class Humano:
     def __init__(self, edad):
         self.edad = edad
